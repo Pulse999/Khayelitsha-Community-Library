@@ -1,4 +1,5 @@
-#Khayelitsha Community Library Management System
+# Khayelitsha Community Library Management System
+
 A C# Windows Forms desktop application for managing the day-to-day
 operations of the Khayelitsha Community Library. The application
 connects to PostgreSQL and provides member, book, physical-copy,
